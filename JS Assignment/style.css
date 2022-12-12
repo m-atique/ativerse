@@ -1,0 +1,36 @@
+body {
+    margin: auto;
+    padding: auto;
+    background-image: url("https://webartdevelopers.com/blog/wp-content/uploads/2020/06/css-particles-background.gif");
+    background-size:cover;
+}
+
+#body2 {
+    margin: 0;
+    padding: 0;
+    
+}
+#main {
+    background-image:linear-gradient(rgb(205, 206, 221),rgb(3, 47, 79),rgb(170, 164, 185));
+    text-align: center;
+    color: white;
+    margin: 40pt;
+    padding: 20px;
+    border-radius: 05px;
+    font-weight: 900;
+}
+.quizBtn {
+    background-image:linear-gradient(rgb(205, 206, 221),rgb(3, 47, 79),rgb(170, 164, 185));
+    font-size: medium;
+    font-style: italic;
+    font-weight: 900;
+    padding: 10pt;
+    margin: 10px;
+    text-align: center;
+    color: rgb(250, 250, 250);
+    border-radius: 05px;
+   border-style: solid;
+   border-width: 1px;
+   opacity: 0.9;
+
+}
